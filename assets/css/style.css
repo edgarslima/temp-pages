@@ -171,8 +171,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #179e0b;
-  font-weight: bold;
 }
+
 .navbar .getstarted, .navbar .getstarted:focus {
   background: #0a6102;
   padding: 8px 20px;
@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-duration: 0.5s;
   animation-duration: 0.5s;
-  border-top: 5px solid #0a6102;
+  border-top: 5px solid #138b08;
 }
 #hero .carousel-content h2 {
   color: #fff;
@@ -387,10 +387,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #0a6102;
+  border: 2px solid #138b08;
 }
 #hero .btn-get-started:hover {
-  background: #0a6102;
+  background: #138b08;
   color: #fff;
   text-decoration: none;
 }
