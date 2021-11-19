@@ -170,7 +170,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #0a6102;
+  color: #179e0b;
+  font-weight: bold;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
   background: #0a6102;
